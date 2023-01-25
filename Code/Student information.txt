@@ -1,0 +1,6 @@
+ID Full Name Contact Email CO U R S ES
+101 Mominul Islam 01521768696 momin52@gmail.com cse-111 cse-112 cse-113 cse-114 cse-115
+102 Kawser Shafaq 01719568700 kawse.shafaq@gmail.com cse-111 cse-112 cse-113 cse-114 cse-115
+103 Rahat Ali 01318647925 ali@rahat.edu.bd cse-111 cse-112 cse-113 cse-114 cse-115
+149 Raihan Hossein 01771431729 mahfujr403@gmail.com cse-111 cse-112 cse-116 phy-114 mat-156
+123 Kareena Kapoor 01985463217 kareena.kapoor@gmail.com cse phy mat phy-1 mat-1
